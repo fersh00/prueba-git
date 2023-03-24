@@ -1,3 +1,6 @@
 esta es una prueba de git
 primer cambio
 
+este es el segundo cambio
+fernando  corral
+
